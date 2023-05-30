@@ -1,0 +1,22 @@
+kWall Freeware License
+Version 1.0, May 2023
+
+This freeware license ("License") is a legal agreement between you (referred to as "User") and the creator of the kWall application ("Software"). By using or distributing the Software, you agree to be bound by the terms and conditions of this License.
+
+1. Grant of License: The creator of the Software hereby grants the User a worldwide, non-exclusive, royalty-free license to use, copy, modify, decompile, disassemble, distribute, and build upon/off of the Software.
+
+2. Redistribution and Derivative Works: The User may redistribute the Software or create derivative works based on the Software, as long as the following conditions are met:
+   a. The User provides proper credit to the creator of the Software.
+   b. The User includes this License with the redistributed Software or derivative works.
+
+3. No Warranty: The Software is provided "as is," without any warranty of any kind, expressed or implied. The creator of the Software shall not be held liable for any damages or losses arising from the use or inability to use the Software.
+
+4. Termination: This License is effective until terminated by either party. The User may terminate this License at any time by destroying all copies of the Software. The creator of the Software may terminate this License if the User fails to comply with any of its terms and conditions.
+
+5. Governing Law: This License shall be governed by and construed in accordance with the laws of the jurisdiction in which the creator of the Software resides.
+
+By using or distributing the kWall application, the User acknowledges that they have read and understood this License and agree to be bound by its terms and conditions.
+
+For any questions regarding this License, please contact the creator of the Software via Telegram (https://t.me/TotallyNotK0) or email (TotallyNotK0@proton.me).
+
+Note: This is a simplified freeware license. It is always advisable to consult with a legal professional when creating a software license to ensure compliance with applicable laws and regulations.
