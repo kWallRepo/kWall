@@ -18,5 +18,3 @@ This freeware license ("License") is a legal agreement between you (referred to 
 By using or distributing the kWall application, the User acknowledges that they have read and understood this License and agree to be bound by its terms and conditions.
 
 For any questions regarding this License, please contact the creator of the Software via Telegram (https://t.me/TotallyNotK0) or email (TotallyNotK0@proton.me).
-
-Note: This is a simplified freeware license. It is always advisable to consult with a legal professional when creating a software license to ensure compliance with applicable laws and regulations.
