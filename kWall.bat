@@ -11,7 +11,7 @@ echo [91m║ [97mkWall Management                          [91m║
 echo [91m║ ════════════════                          [91m║
 echo [91m║ [97m[1] Update blocklist                      [91m║
 echo [91m║                                           [91m║
-echo [91m║ [97mkWall version: [1.2.1]                    [91m║
+echo [91m║ [97mkWall version: [1.2.2]                    [91m║
 echo [91m║                                           [91m║
 echo [91m║ [97mChangelog                                 [91m║
 echo [91m║ ═════════                                 [91m║
