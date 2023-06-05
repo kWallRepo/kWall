@@ -5,9 +5,13 @@ import subprocess
 # Fetch the IP blocklist
 response = requests.get("https://feodotracker.abuse.ch/downloads/ipblocklist.csv").text
 
-# Delete existing firewall rule
-delete_rule = "netsh advfirewall firewall delete rule name='BadIP'"
-subprocess.run(["Powershell", "-Command", delete_rule], check=True)
+# Check if the "BadIP" rule exists
+check_rule = "netsh advfirewall firewall show rule name='BadIP'"
+result = subprocess.run(["Powershell", "-Command", check_rule], capture_output=True, text=True)
+if "No rules match the specified criteria." not in result.stdout:
+    # Delete existing firewall rule
+    delete_rule = "netsh advfirewall firewall delete rule name='BadIP'"
+    subprocess.run(["Powershell", "-Command", delete_rule], check=True)
 
 # Process the IP blocklist
 csv_data = csv.reader(filter(lambda x: not x.startswith("#"), response.splitlines()))
